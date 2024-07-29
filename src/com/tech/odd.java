@@ -8,7 +8,7 @@ public class odd {
 		int sum=0;
 		
 		for(int ad:a) {
-			if(ad %2!=0) {
+			if(ad %2==0) {
 				sum+=ad;
 			}
 		}
