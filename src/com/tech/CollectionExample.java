@@ -5,7 +5,7 @@ import java.util.*;
 public class CollectionExample {
     public static void main(String[] args) {
         // Create a list
-        List<String> names = new ArrayList<>(Arrays.asList("Raj", "Shubham", "Pournima"));
+        List<String> names = new ArrayList< String>();
 
         // Add an element
         names.add("Atharva");
